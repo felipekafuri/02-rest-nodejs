@@ -1,0 +1,9 @@
+
+
+db/*.sqlite
+node_modules
+.env
+
+# Folders
+build
+dist
